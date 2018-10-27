@@ -30,6 +30,7 @@ Signed,
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CEO at Message In Action
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
+- Kaustubh Khandelwal ([@kaustubh2705](https://github.com/kaustubh2705)), Developer
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
 - Sadjow Leão ([@sadjow](https://github.com/sadjow)), Software Developer
